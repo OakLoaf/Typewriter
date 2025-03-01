@@ -139,3 +139,6 @@ jars/
 /documentation/plugins/code-snippets/
 /.history/
 /documentation/.history/
+surrealdb
+nats
+.env
