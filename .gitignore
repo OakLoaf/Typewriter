@@ -141,4 +141,6 @@ jars/
 /documentation/.history/
 surrealdb
 nats
+docker/surrealdb
+docker/nats
 .env
